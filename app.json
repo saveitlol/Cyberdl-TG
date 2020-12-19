@@ -12,12 +12,12 @@
   "success_url": "/welcome",
   
   "stack": "heroku-20"
+  
   "env": {
     "BOT_TOKEN": {
       "description": "from botfather."
     "NPM_CONFIG_PRODUCTION": {
-      "description": "false"
-     }
+      "description": "false"  
   },
     "WEB_CONCURRENCY": {
       "description": "The number of processes to run.",
