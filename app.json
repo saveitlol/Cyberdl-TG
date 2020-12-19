@@ -11,10 +11,14 @@
   "logo": "https://small-sharp-tool.com/logo.svg",
   "success_url": "/welcome",
   
+  "stack": "heroku-20"
   "env": {
     "BOT_TOKEN": {
-      "description": "from botfather."  
-    },
+      "description": "from botfather."
+    "NPM_CONFIG_PRODUCTION": {
+      "description": "false"
+     }
+  },
     "WEB_CONCURRENCY": {
       "description": "The number of processes to run.",
       "value": "4"
@@ -26,9 +30,4 @@
       "size": "free"
     }
   },
-  "stack": {
-    {
-   "stack": "heroku-20"
-    }
-  }
 }
