@@ -1,10 +1,9 @@
 {
-  "name": "CyberDrop Telegram Bot",
-  "description": "CyberDrop album downloader for Telegram",
-  "repository": "https://github.com/izqalan/Cyberdrop-Telegram",
-  "logo": "https://node-js-sample.herokuapp.com/node.png",
-  "keywords": ["node", "express", "telegram"]
-  "stack": "heroku-20",
+  "name": "cydl bot",
+  "description": "This app does one little thing, and does it well.",
+  "keywords": ["cyka", "bylat"],
+  "repository": "https://github.com/bnsave100/Cyberdrop-Telegram-1.git",
+  "stack": "container",
   "formation": {"worker": {"quantity": 1, "size": "free"}},
   "env": {
     "API_ID": {
@@ -15,6 +14,6 @@
     },
     "BOT_TOKEN": {
       "description": "Your bot_token"
-    }   
+    }
   }
-}
+}       
