@@ -5,7 +5,6 @@
 add `@CyberdropBot` on Telegram and message the following commands.
 ```sh
 Commands: 
-/help - Commands
 /get <url> - Download cyberdrop.me album.
 /gripe <url> - Download dmca gripe album. **BETA**
 ```
@@ -46,7 +45,7 @@ Use this commande in BotFather chat to create new Bot:
 Your API Key should look something like this:
 
 ```sh
-801650799:AAEYIthu4KWV14ZzKauXb5KdF8cKHRzluRE
+xddxdxdxdxdxdxdxdxdx
 ```
 
 Add `BOT_TOKEN` Config Vars on heroku. 
