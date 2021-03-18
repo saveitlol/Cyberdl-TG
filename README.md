@@ -1,6 +1,3 @@
-### Status
-[![Heroku App Status](http://heroku-shields.herokuapp.com/cyberdrop-telegram)](https://calm-atoll-75332.herokuapp.com)
-
 ## Usage
 add `@CyberdropBot` on Telegram and message the following commands.
 ```sh
@@ -8,7 +5,7 @@ Commands:
 /get <url> - Download cyberdrop.me album.
 /gripe <url> - Download dmca gripe album. **BETA**
 ```
-
+This fork is just tiny edit Of mine credit goes to @https://github.com/izqalan/
 ## Getting Started
 
 ```sh
