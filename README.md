@@ -5,7 +5,7 @@ Commands:
 /get <url> - Download cyberdrop.me album.
 /gripe <url> - Download dmca gripe album. **BETA**
 ```
-This fork is just tiny edit Of mine credit goes to @https://github.com/izqalan/
+This fork is just tiny edit Of mine credit goes to @izqalan
 ## Getting Started
 
 ```sh
