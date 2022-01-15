@@ -3,8 +3,6 @@
   "description": "This app does one little thing, and does it well.",
   "keywords": ["cyka", "bylat"],
   "repository": "https://github.com/bnsave100/Cyberdrop-Telegram-1.git",
-  "stack": "container",
-  "formation": {"worker": {"quantity": 1, "size": "free"}},
   "env": {
     "API_ID": {
       "description": "Your telegram api id."
@@ -14,6 +12,12 @@
     },
     "BOT_TOKEN": {
       "description": "Your bot_token"
+    }
+  },
+  "formation": {
+    "container": {
+      "quantity": 1,
+      "size": "free"
     }
   }
 }       
